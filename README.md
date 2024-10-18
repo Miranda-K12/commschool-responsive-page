@@ -1,0 +1,1 @@
+# commschool-responsive-page
